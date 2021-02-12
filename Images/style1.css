@@ -1,0 +1,147 @@
+.header {
+  padding: 40px;
+  text-align: left;
+  background-color: #38A6A4;
+  color: black;
+  font-size: 28px;
+}
+.icons {
+  float: right;
+}
+.fa-search {
+  padding-right: 35px;
+}
+.fa-shopping-cart {
+  padding-right: 35px;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #38A6A4;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 8px 16px;
+  text-decoration: none;
+  font-size: 23px;
+  border-bottom: 3px solid transparent;
+}
+.topnav a:hover {
+  border-bottom: 3px solid white;
+}
+.topnav a.active {
+  border-bottom: 3px solid white;
+}
+      body{
+        font-family: 'Nunito', sans-serif;
+      }
+     
+ 
+ .button1{
+  background-color: #38A6A4 ;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  float: right;
+  border: none;
+  font-size: 0.5cm;
+}
+
+  
+
+.row {
+  display: flex;
+justify-content: left;
+padding-left: 1cm;
+align-items: flex-start; 
+
+}
+.column{
+  margin-right: 2cm;
+  }
+  .button1{
+    background-color: #38A6A4 ;
+    padding: 15px 32px;
+    text-align: center;
+    float: left;
+    border: none;
+    color: white;
+    font-size: 0.5cm;}
+
+  .detail{
+    font-size: 15px;
+    padding-left: 1.5cm;
+    }
+    .img2{
+      width: 235px;
+      height: 229px;
+      
+    }
+    .fa-arrow-left{
+     color: #dc85f6; 
+    }
+  
+    .row1 {
+      display: flex;
+    justify-content: center;
+    align-items: center; 
+    }
+    .bio{
+      text-align: center;
+    }
+    .button3{
+      background-color: #38A6A4 ;
+  color:white;
+  padding: 15px 32px;
+  text-align: center;
+  float: center;
+  border: none;
+  font-size: 0.5cm;
+
+    }
+   
+table{
+  border: 1px solid black;
+  float: right;
+  margin-right: 5cm;
+  padding-top: 1cm;
+  padding-bottom:0.5cm ;
+  padding-right: 1cm;
+  padding-left:0.5cm;
+}
+th{
+  text-align: left;
+  word-spacing: 2cm;
+}
+.column1{
+  align-content: center;
+  margin: 1cm;
+}
+    
+
+.detail2{
+  width: 20px;
+}
+  .row3{
+    display: flex;
+    flex-direction: column;
+  }
+
+.detail3{
+  display: flex;
+  flex-direction:column;
+  padding-left: 2cm;
+  height: 4.5cm;
+}
+
+ 
+
+.fa-trash{
+  padding: 1.5cm;
+}
+
+
+
+
